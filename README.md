@@ -25,6 +25,7 @@ A plataforma está sendo desenvolvida em módulos integrados:
 - Internamento e evolução clínica.
 - Vacinação.
 - Estoque e medicamentos.
+- Módulo Calculadora de Doses.
 - Caixa e financeiro.
 - Gestão de colaboradores e permissões.
 - Relatórios e indicadores.
