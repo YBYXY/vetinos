@@ -402,7 +402,7 @@ A liberação gradual não significa desenvolver módulos isolados. Cada módulo
 - [ ] Filtros por período.
 - [ ] Exportação.
 
-## 6.6 Calculadora de doses
+## 6.6 MÓDULO — CALCULADORA DE DOSES
 
 **Status: Planejado.** Funcionalidade aprovada para desenvolvimento futuro. Ainda não implementada.
 
