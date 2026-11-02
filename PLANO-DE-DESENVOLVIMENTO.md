@@ -311,6 +311,7 @@ Exemplos:
 | Internamento | Utiliza o mesmo paciente e histórico clínico |
 | Vacinação | Utiliza paciente, tutor e histórico |
 | Estoque | Fornece produtos e medicamentos conforme unidade |
+| Calculadora de Doses | Utiliza paciente e peso atualizado, prescrição informada e dados de concentração/apresentação dos medicamentos; integra-se ao cadastro de medicamentos, atendimento, prontuário e internamento |
 | Financeiro | Recebe serviços e cobranças dos atendimentos |
 | Relatórios | Consolida dados conforme permissões |
 
