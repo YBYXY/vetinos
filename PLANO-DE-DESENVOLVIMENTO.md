@@ -402,6 +402,25 @@ A liberação gradual não significa desenvolver módulos isolados. Cada módulo
 - [ ] Filtros por período.
 - [ ] Exportação.
 
+## 6.6 Calculadora de doses
+
+**Status: Planejado.** Funcionalidade aprovada para desenvolvimento futuro. Ainda não implementada.
+
+Objetivo: disponibilizar uma ferramenta de apoio ao cálculo matemático de volumes de medicamentos, com interface inspirada na referência visual apresentada pelo usuário.
+
+- [ ] Criar interface própria para a calculadora, integrada à área de Medicações.
+- [ ] Permitir informar ou selecionar o paciente e utilizar seu peso atualizado, quando disponível.
+- [ ] Informar a dose prescrita pelo médico-veterinário.
+- [ ] Informar a concentração e a apresentação disponíveis do medicamento.
+- [ ] Calcular o volume correspondente, com conversões de unidades devidamente validadas.
+- [ ] Apresentar claramente os dados utilizados e o resultado do cálculo.
+- [ ] Exibir alertas para conferência de peso, dose, concentração, apresentação e unidade antes da administração.
+- [ ] Prever integração com cadastro de medicamentos, atendimento, prontuário e internamento.
+- [ ] Avaliar registro do cálculo no histórico do paciente, conforme fluxo clínico e decisão de projeto a ser definida na implementação.
+- [ ] Testar cálculos, conversões, limites, entradas inválidas e comportamento em diferentes dispositivos.
+
+**Regras de segurança:** a calculadora deverá executar somente o cálculo matemático com os parâmetros informados e prescritos. Não deverá sugerir ou definir doses terapêuticas automaticamente, substituir a avaliação do médico-veterinário nem confirmar a administração do medicamento. Os resultados deverão ser conferidos por profissional habilitado antes do uso clínico.
+
 # 7. DISPONIBILIZAÇÃO GRADUAL
 
 Os módulos serão liberados conforme forem concluídos e validados.
